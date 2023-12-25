@@ -80,11 +80,12 @@
 - Anyone who want to learn Terraform from a practical perspective 
 
 ## Github Repositories used for this course
-- [HashiCorp Certified: Terraform Associate](https://github.com/stacksimplify/hashicorp-certified-terraform-associate)
+<!-- - [HashiCorp Certified: Terraform Associate](https://github.com/stacksimplify/hashicorp-certified-terraform-associate)
 - [Terraform Cloud Demo](https://github.com/stacksimplify/terraform-cloud-demo1)
 - [Terraform Private Module Registry](https://github.com/stacksimplify/terraform-aws-s3-website)
 - [Terraform Sentinel Policies](https://github.com/stacksimplify/terraform-sentinel-policies)
-- [Course PPT Presentation](https://github.com/stacksimplify/hashicorp-certified-terraform-associate/tree/master/presentation)
+- [Course PPT Presentation](https://github.com/stacksimplify/hashicorp-certified-terraform-associate/tree/master/presentation) -->
+
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
@@ -95,7 +96,7 @@
 - 30 Day "No Questions Asked" Money Back Guarantee!
 
 ## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
+<!-- - [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
 
 ## Stack Simplify Udemy Profile
 - [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
@@ -108,7 +109,7 @@
 [![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
 # Azure - HashiCorp Certified: Terraform Associate - 70 Demos
-[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-70demos.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate)
+[![Image](https://stacksimplify.com/course-images/azure-hashicorp-certified-terraform-associate-70demos.png "Azure - HashiCorp Certified: Terraform Associate - 70 Demos")](https://links.stacksimplify.com/azure-hashicorp-certified-terraform-associate) -->
 
 
 ## Additional References
